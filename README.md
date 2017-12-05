@@ -16,6 +16,9 @@ https://hospitalinc.tweakblogs.net/blog/15521/q-en-a
 
 Note:
 The assets used in the game are from Synty Studio's Simple series.
+
 All scripting is self-made.
+
 Unreal engine 4
+
 This repo is for issue tracking only, there will be no code added to this repo
