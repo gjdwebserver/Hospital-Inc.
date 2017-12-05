@@ -8,13 +8,13 @@ You will need to build rooms for the illnesses and injuries you encounter, every
 
 Ambulance may bring in special treatment patients with injures like burns or complex fractures you will need operation rooms or special room for those patients.
 
-#Gamesite:
+Gamesite:
 https://gamejolt.com/games/hospitalinc/300549
 
-#Q&A:
+Q&A:
 https://hospitalinc.tweakblogs.net/blog/15521/q-en-a
 
-#Note:
+Note:
 The assets used in the game are from Synty Studio's Simple series.
 All scripting is self-made.
 Unreal engine 4
